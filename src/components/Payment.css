@@ -1,0 +1,111 @@
+@media(min-width: 786px){
+    .news-input{
+        width:80%;
+    }
+}
+
+.main{
+    background-color: #00563F;
+    
+}
+.da-container{
+    color: #f0e3e3;
+    padding-left: 195px;
+    font-size: larger;
+
+}
+.text_info{
+    color: #d1c4c4;
+    font-family: montserrat,sans-serif;
+}
+.wrote{
+    color: rgb(5, 159, 5);
+}
+
+.phonenum{
+    color: #f0e3e3;
+}
+.easypaisaimg{
+    /* margin-bottom: 10px; */
+    margin-top: 55px;
+    /* margin-left: 10px; */
+    margin-right: 225px;
+    padding-bottom: 25px;
+    height: 450px;
+}
+
+
+/* bank */
+@media(min-width: 786px){
+    .news-input{
+        width:80%;
+    }
+}
+
+.main2{
+    background-color: #4b0560;
+}
+.ba-container{
+    color: #f0e3e3;
+    padding-left: 195px;
+    font-size: larger;
+
+}
+.text_info{
+    color: #d1c4c4;
+    font-family: montserrat,sans-serif;
+}
+.likh{
+    color: #ea75a8;
+}
+
+.phonenumal{
+    color: #f0e3e3;
+}
+.meezanbankimg{
+    /* margin-bottom: 10px; */
+    margin-top: 55px;
+    /* margin-left: 20px; */
+    margin-right: 205px;
+    padding-bottom: 75px;
+    height: 270px;
+    width: 30%;
+}
+
+/* JazzCash */
+@media(min-width: 786px){
+    .news-input{
+        width:80%;
+    }
+}
+
+.main3{
+    background-color: #800000;
+}
+.za-container{
+    color: #f0e3e3;
+    padding-left: 195px;
+    font-size: larger;
+
+}
+.text_info{
+    color: #d1c4c4;
+    font-family: montserrat,sans-serif;
+}
+.likhen{
+    color:#e77575;
+}
+
+.phonenumaly{
+    color: #f0e3e3;
+}
+.jazzcashimg{
+    /* margin-bottom: 10px; */
+    margin-top: 55px;
+    /* margin-left: 20px; */
+    margin-right: 215px;
+    padding-bottom: 78px;
+    height: 350px;
+    width: 30%;
+}
+

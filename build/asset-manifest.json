@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.38d946e5.css",
+    "main.js": "/static/js/main.8dba040f.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/slider1.jpg": "/static/media/slider1.3ce185e6b2976156a98b.jpg",
+    "static/media/First_section.jpg": "/static/media/First_section.d5dfad29f6c1bcab7e6a.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.4bf3ba862467c0da3ece.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.c0c4db52066fcbc3e381.jpg",
+    "static/media/diploma_track.png": "/static/media/diploma_track.9265701569f71799f806.png",
+    "static/media/course1.jpg": "/static/media/course1.bfe083802e660ff3d8ee.jpg",
+    "static/media/course3.jpg": "/static/media/course3.bd5fe34e2387fba6d0c7.jpg",
+    "static/media/course2.jpg": "/static/media/course2.66d641e2317897836cd6.jpg",
+    "static/media/irfan.png": "/static/media/irfan.f6aaa57134632041d6da.png",
+    "static/media/jazzcash.png": "/static/media/jazzcash.c98164321c1ad932cf57.png",
+    "static/media/meezanbank.png": "/static/media/meezanbank.d698e58f0ddfb1bb199e.png",
+    "static/media/logo.png": "/static/media/logo.fdde02ba8a7cc8ae4641.png",
+    "static/media/easypaisa.png": "/static/media/easypaisa.863ce39cd162f3927d62.png",
+    "index.html": "/index.html",
+    "main.38d946e5.css.map": "/static/css/main.38d946e5.css.map",
+    "main.8dba040f.js.map": "/static/js/main.8dba040f.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38d946e5.css",
+    "static/js/main.8dba040f.js"
+  ]
+}

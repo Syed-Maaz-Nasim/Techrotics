@@ -1,0 +1,311 @@
+.content-wrap {
+    padding-top: 68px;
+    min-height: 100vh;
+}
+
+.flex-column {
+    flex-direction: column!important;
+}
+.d-flex {
+    display: flex!important;
+}
+#main {
+    margin-top: 40px;
+}
+.pb-5 {
+    padding-bottom: 2rem!important;
+}
+.pt-4 {
+    padding-top: 1.5rem!important;
+}
+.content-space-b-1 {
+    padding-bottom: 3rem!important;
+}
+
+@media (min-width: 992px){
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 960px;
+}}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+}
+@media (min-width: 768px){
+.me-md-6 {
+    margin-right: 2.5rem!important;
+}}
+
+@media (min-width: 992px){
+.col-lg-7 {
+    flex: 0 0 auto;
+    width: 58.33333333%;
+}}
+@media (min-width: 768px){
+.col-md-5 {
+    flex: 0 0 auto;
+    width: 41.66666667%;
+}}
+.path-wrapper .banner-text {
+    background: #FFF;
+    border: 1px solid var(--dq-grey-150);
+}
+
+.ps-5 {
+    padding-left: 2rem!important;
+}
+.pb-4 {
+    padding-bottom: 1.5rem!important;
+}
+.pe-5 {
+    padding-right: 2rem!important;
+}
+.pt-4 {
+    padding-top: 1.5rem!important;
+}
+.path-wrapper .banner-text .text-box {
+    border-bottom: 1px solid var(--dq-grey-150);
+}
+
+.pb-3 {
+    padding-bottom: 1rem!important;
+}
+.path-wrapper .banner-text .text-box span {
+    font-weight: 600;
+    color: var(--bs-secondary);
+    display: block;
+}
+
+.justify-content-between {
+    justify-content: space-between!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.path-wrapper .banner-text .text-box span {
+    font-weight: 600;
+    color: var(--bs-secondary);
+    display: block;
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem!important;
+}
+.path-wrapper .banner-text .text-box span {
+    font-weight: 600;
+    color: var(--bs-secondary);
+    display: block;
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem!important;
+}
+.path-wrapper .banner-text .text-box h1 {
+    font-weight: 700;
+    line-height: 54px;
+    color: var(--bs-black);
+}
+
+.pb-1 {
+    padding-bottom: 0.25rem!important;
+}
+.m-0 {
+    margin: 0!important;
+}
+.h1, h1 {
+    font-size: calc(1.375rem + 1.5vw);
+}
+.path-wrapper .banner-text .text-box strong {
+    font-weight: 600;
+    color: var(--bs-secondary);
+    display: block;
+}
+
+b, strong {
+    font-weight: bolder;
+}
+.path-wrapper .banner-text .text-box span {
+    font-weight: 600;
+    color: var(--bs-secondary);
+    display: block;
+}
+
+.d-inline {
+    display: inline!important;
+}
+.path-wrapper .banner-text .text-box p {
+    font-weight: 400;
+    color: var(--bs-black);
+    line-height: 26px;
+}
+
+.pb-5 {
+    padding-bottom: 2rem!important;
+}
+.pt-2 {
+    padding-top: 0.5rem!important;
+}
+.m-0 {
+    margin: 0!important;
+}
+.path-wrapper .btn-default {
+    height: 56px;
+}
+
+.course-wrapper .btn-primary, .home-wrapper .btn-primary, .path-wrapper .btn-primary {
+    background: var(--bs-primary);
+    border: 2px solid var(--bs-primary);
+    font-weight: 600;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    transition: all .5s ease-in-out;
+    justify-content: center;
+    border-radius: 0!important;
+}
+.pt-3 {
+    padding-top: 1rem!important;
+}
+.path-wrapper .banner-text .text-inner .media {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pb-3 {
+    padding-bottom: 1rem!important;
+}
+.path-wrapper .banner-text .text-inner .media p {
+    font-weight: 600;
+    color: var(--bs-black);
+    display: flex;
+    align-items: center;
+}
+
+.m-0 {
+    margin: 0!important;
+}
+body p {
+    color: var(--bs-body-color);
+}
+.path-wrapper .banner-text .text-inner .media p img {
+    margin-right: 4px;
+}
+
+.course-wrapper img, .home-wrapper img, .path-wrapper img {
+    border-style: none;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+.path-wrapper .banner-text .text-inner .media span {
+    font-weight: 400;
+    color: var(--bs-black);
+}
+.path-wrapper .banner-text .text-inner .media span {
+    font-weight: 400;
+    color: var(--bs-black);
+}
+
+.d-inline {
+    display: inline!important;
+}
+.path-wrapper ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.path-wrapper .banner-text .text-inner ul {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+@media (min-width: 992px){
+.col-lg-4 {
+    flex: 0 0 auto;
+    width: 33.33333333%;
+}}
+.path-wrapper .banner-right {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (min-width: 992px){
+.mt-lg-0 {
+    margin-top: 0!important;
+}}
+align-items-center {
+    align-items: center!important;
+}
+.border-1 {
+    --bs-border-width: 1px;
+}
+
+.border-dark {
+    --bs-border-opacity: 1;
+    border-color: rgba(var(--bs-dark-rgb),var(--bs-border-opacity))!important;
+}
+.d-flex {
+    display: flex!important;
+}
+.path-wrapper img {
+    border-style: none;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+.image-bg-purple {
+    background: rgba(155,81,224,.7);
+}
+.mx-auto {
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+img, svg {
+    vertical-align: middle;
+}
+.path-wrapper .banner-right .text-box {
+    background: #FFF;
+    border: 1px solid var(--dq-grey-100);
+    box-shadow: 0 14.63px 80.44px -21.94px rgb(43 37 37 / 30%);
+    padding: 21px 29px 28px 27px;
+    width: 350px;
+}
+.path-wrapper .banner-right .text-box p {
+    font-weight: 400;
+    color: var(--bs-black);
+}
+
+.mb-2 {
+    margin-bottom: 0.5rem!important;
+}
+.small, small {
+    font-size: .875em;
+}
+.path-wrapper .banner-right .text-box h4 {
+    font-weight: 700;
+    color: var(--bs-black);
+    margin-bottom: 1px;
+}
+
+.m-0 {
+    margin: 0!important;
+}
+.h4, h4 {
+    font-size: 1.125rem;
+}
+.path-wrapper .banner-right .text-box span {
+    font-weight: 400;
+    color: var(--bs-secondary);
+}
+
+.small, small {
+    font-size: .875em;
+}

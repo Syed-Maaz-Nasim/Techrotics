@@ -1,0 +1,47 @@
+   *{padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+    .search-button {
+      width: 100px !important;
+      height: 50px !important;
+    }
+        
+    .search-button svg {
+      width: 25px !important;
+      height: 25px !important;
+    }
+    
+    .text{
+        font-size: 18px !important;
+        line-height: 32px !important;
+        color: #5b5b5b !important;
+        width: 70% !important;
+        margin-top: 5px !important;
+        margin-bottom: 30px !important;
+        font-family: 'Montserrat', sans-serif !important;
+    }
+    .heading{
+        font-size: 42px !important;
+        line-height: 51px !important;
+        color: #183b56;
+        position: relative !important;
+    }
+
+    .btn-primary{
+        background-color: #007bff;
+        padding-left: 80px !important;
+        width: 40%;
+        padding: 8px 24px !important;
+        border-color: #007bff;
+        color: #fff;
+        margin-bottom: 70px;
+    }
+    .lm-btn {
+        font-weight: 600 !important;
+        font-size: 12px !important;
+        padding: 8px 24px !important;
+    }
+
+    .myclass{
+      display: flex;
+    }

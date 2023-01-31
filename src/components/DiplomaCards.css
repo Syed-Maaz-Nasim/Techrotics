@@ -1,0 +1,110 @@
+
+
+.courses_bg {
+    padding: 50px 0 60px;
+    margin-top: 40px;
+    background-color: #f7f9fc;
+}
+.text_center {
+    text-align: center !important;
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin-top: 0;
+}
+@media (min-width: 992px){
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 960px;
+}
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.courses_boxes [class*=col-] {
+    margin-bottom: 30px;
+}
+.courses_boxes .card {
+    border: 0;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    overflow: hidden;
+    height: 100%;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #dbdbdb;
+}
+.courses_boxes .img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.courses_boxes .img img {
+    width: 100%;
+}
+.dt_cards_3 .txt {
+    margin-top: 200px;
+    
+}
+.courses_boxes .txt {
+    padding: 25px;
+    z-index: 1;
+    margin-top: 150px;
+}
+.dt_cards_3 h2 {
+    font-size: 22px !important;
+    line-height: 28px !important;
+    margin-bottom: 10px !important;
+    min-height: 55px !important;
+    font-weight: bold;
+    color: black;
+    margin-top: 45px;
+}
+.courses_boxes h3 {
+    background-color: #ffe000;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-bottom: 15px;
+    color: #0e2a47;
+}
+.courses_boxes .mode {
+    display: flex;
+    align-items: center;
+    padding: 5px 0 15px;
+}
+.img {
+    vertical-align: middle;
+    border-style: none;
+}
+.courses_boxes .mode div {
+    padding-left: 15px;
+}
+.courses_boxes .mode h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.courses_boxes .mode p {
+    min-height: auto;
+    margin-bottom: 0;
+}
+.courses_boxes.dt_cards_3 p {
+    min-height: auto;
+}
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+.all_cards{
+    /* margin-top: 40px; */
+    /* height: 10px; */
+    /* width: auto; */
+}

@@ -1,0 +1,138 @@
+/* *{padding: 0;
+  margin: 0;
+  box-sizing: border-box;}
+  .search-button {
+    width: 100px;
+    height: 50px;
+  }
+      
+  .search-button svg {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .text{
+      font-size: 16px;
+      line-height: 32px;
+      color: #5b5b5b;
+      width: 70%;
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+  .heading{
+      font-size: 42px;
+      line-height: 51px;
+      color: #183b56;
+      position: relative;
+  } */
+  /* NExt Component CSS */
+  .next{
+    margin: auto;
+    width: 80%;
+    padding-top: 100px;
+  }
+  .write{
+    font-weight: 600;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    color: #346FB4;
+  }
+  .writing{
+    color: #FFDE00;
+    font-size: 30px !important;
+    font-weight: 600;
+  }
+  .type_1{
+    font-size: 18px !important;
+    font-family: montserrat,sans-serif;
+    color: #3680C3;
+    display: block;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+  
+  .hello{
+    padding-left: 15px;
+    padding-top: 125px;
+    width: 90% !important;
+
+  }
+  .owl-stage{
+    transform: translate3d(-950px, 0px, 0px);
+    transition: all 0s ease 0s;
+    width: 2377px;
+  }
+  .owl-item cloned{
+    width: 475.333px;
+  }
+  .owl-item cloned{
+    width: 475.333px;
+  }
+  .owl-item active{
+    width: 475.333px;
+  }
+  .owl-item cloned{
+    width: 557.333px;
+  }
+  .owl-item cloned{
+    width:  557.333px;
+  }
+  .do{
+    padding-left: 60px;
+    font-size: 2rem !important;
+    margin-bottom: 0.5rem !important;
+    font-weight: 500 !important;
+    line-height: 1.2 !important
+    
+  }
+  .work{
+    color: #212529 !important;
+    font-family: montserrat,sans-serif !important;
+    font-size: 16px !important;
+    margin-top: -15px !important;
+    margin-bottom: 0px !important;
+    margin-left: 16px !important;
+  }
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+  @media (min-width: 992px){
+    .col-lg-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  } 
+  }
+  .hero_bt3 {
+    position: relative;
+  }
+  .hero_bt3 .container {
+    max-width: 1300px;
+    margin: 20px auto;
+  }
+  .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    /* margin-top: 55px; */
+  }
+  @media (min-width: 992px){
+  .col-lg-6 {
+      -ms-flex: 0 0 50%;
+      flex: 0 0 50%;
+      max-width: 50%;
+  }
+  }
